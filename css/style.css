@@ -768,7 +768,7 @@ p {
 @media (max-width: 375px) {
   .home-course-item {
     width: 70px;
-    height: 0px;
+    height: 70px;
     font-size: 30px;
   }
 }
